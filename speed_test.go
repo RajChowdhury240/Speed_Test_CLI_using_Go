@@ -14,7 +14,7 @@ func version() {
 }
 
 func usage() {
-	fmt.Fprint(os.Stderr, "Command line interface for testing internet bandwidth using speedtest.net.\n\n")
+	fmt.Fprint(os.Stderr, "Command line interface for testing internet bandwidth using speedtest.net \n\n")
 	flag.PrintDefaults()
 }
 
