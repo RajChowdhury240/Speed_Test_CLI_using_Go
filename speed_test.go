@@ -18,6 +18,7 @@ func usage() {
 	flag.PrintDefaults()
 }
 
+
 func main() {
 	opts := speedtest.ParseOpts()
 
