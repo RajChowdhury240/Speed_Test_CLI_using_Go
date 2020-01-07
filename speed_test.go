@@ -104,4 +104,4 @@ func selectServer(opts *speedtest.Opts, client speedtest.Client) (selected *spee
 
 
 
-// Coded by Raj Chowdhury !!
+// Coded by Raj Chowdhury  !!
