@@ -1,5 +1,5 @@
 # Speed_Test_CLI_using_Go
-A simple CLI to measure download Speed &amp; Upload Speed using Go
+- [x] *A simple CLI to measure download Speed &amp; Upload Speed using Go*
 
 ![alt text](https://raw.githubusercontent.com/gophertuts/go-basics/master/gophertuts.svg?sanitize=true)
 
