@@ -11,6 +11,7 @@ import (
 
 func version() {
 	fmt.Print(speedtest.Version)
+	// outputs The Version
 }
 
 func usage() {
