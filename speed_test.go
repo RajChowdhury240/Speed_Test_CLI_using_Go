@@ -107,3 +107,4 @@ func selectServer(opts *speedtest.Opts, client speedtest.Client) (selected *spee
 
 
 // Coded by Raj Chowdhury  !!
+// updated on 28th Jan , 2020
